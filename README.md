@@ -1,2 +1,2 @@
-# FrcAdvancedProgrammingClass
-FRC Advanced Programming Class
+# FrcProgrammingClass
+FRC Programming Class
